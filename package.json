@@ -13,17 +13,17 @@
   },
   "dependencies": {
     "commander": "^11.0.0",
-    "dotenv": "^16.4.0",
+    "dotenv": "^16.5.0",
+    "fs": "^0.0.1-security",
     "googleapis": "^132.0.0",
     "mongodb": "^6.6.0",
-    "winston": "^3.10.0",
-    "node-cron": "^3.1.1",
-    "json2csv": "^6.0.0",
-    "nodemailer": "^6.9.0"
+    "node-cron": "^4.1.0",
+    "nodemailer": "^6.9.0",
+    "path": "^0.12.7",
+    "winston": "^3.10.0"
   },
   "devDependencies": {
-    "typescript": "^5.4.0",
     "@types/node": "^20.0.0",
-    "@types/commander": "^11.0.0"
+    "typescript": "^5.4.0"
   }
 }
