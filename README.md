@@ -1,6 +1,7 @@
 # mongosync-drive
 
 A MongoDB Library plugin to take timely backups and sync with Google Drive on a cron schedule.
+`this library will be availble soon on npm!`
 
 ## Features
 
